@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jakiurx
+- 🌱 I’m currently learning: HTML, Java, JavaScript, C++
